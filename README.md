@@ -5,7 +5,7 @@
 Prerequisites
 -------------
 
-- [Gladys](http://gladysproject.com) 
+- [Gladys](http://gladysassistant.com) 
 
 Getting started
 -------------
@@ -17,5 +17,5 @@ Getting started
 What is Gladys project
 -------------
 
-**Website :** [https://gladysproject.com](http://gladysproject.com) <br>
-**Community :** [https://community.gladysproject.com/](https://community.gladysproject.com/)
+**Website :** [https://gladysassistant.com](http://gladysassistant.com) <br>
+**Community :** [https://community.gladysassistant.com/](https://community.gladysassistant.com/)
